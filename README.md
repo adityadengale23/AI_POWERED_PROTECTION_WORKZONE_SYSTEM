@@ -24,6 +24,8 @@ An intelligent safety system designed for industrial robotic zones that ensures:
 
 ### Working Prototype of Project
 
+**Watch Demo**
+
 ### 1. PPE Detection
 
 * Camera captures the person
@@ -62,11 +64,15 @@ System condition:
 
 ## 🔄 Flowchart
 
-![Flowchart](project/Working.jpeg)
+📌 Click below to view the complete system flowchart:
+
+👉 [Open Flowchart](project/Working.jpeg)
 
 ## 📍 Pin Configuration in STM32 Cube IDE
 
-![Pin Configuration](project/PIN_CONFIGURATION.png)
+📌 Click below to view the pin configuration:
+
+👉 [PIN_CONFIGURATION](project/PIN_CONFIGURATION.png)
 
 ## 🛠 Technologies Used
 
